@@ -1,0 +1,62 @@
+body{
+    background-color: #7894FF;
+}
+fieldset{
+    background-color: #FFFFFF;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    color :#FF722D;
+    font-size: 20px;
+    width: 500px;
+    margin-left: 490px;
+    margin-top: 150px;
+    border-radius: 20px;
+    border: 8px solid #E1F355;
+}
+div.center{
+    text-align:center;
+    font-size: 30px;
+}
+.button{
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align:center;
+}
+.button input{
+    background-color: #c4a9ee;
+    color: #5E5BE4;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    margin-right: 10px;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    
+}
+.button input:hover {opacity: 10}
+#username{
+    border-radius: 20px;
+    border: 3px solid #E1F355;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    text-align:center;
+    font-size: 18px;
+}
+#password{
+    border-radius: 20px;
+    border: 3px solid #E1F355;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    text-align:center;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
